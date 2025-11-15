@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **(PostgreSQL, Express.js, React.js, Node.js)**
+- 🌱 I’m currently learning **(PostgreSQL, Express.js, React.js, Node.js, Laravel)**
 - 📂 All of my projects are available on **[Portfolio Link](https://kel-portfolio.vercel.app/)**
 - 📫 Reach me via: **[LinkedIn](https://www.linkedin.com/in/micheal-adrian-gener-2a5383313/)**
 - 🔥 Fun fact: *I drink more coffee than my code has comments ☕*
