@@ -18,10 +18,10 @@
 
 ### 🚀 About Me
 
--     🌱 I’m currently learning **(PostgreSQL, Express.js, React.js, Node.js)**
--     📂 All of my projects are available on **[Portfolio Link](https://kel-portfolio.vercel.app/)**
--     📫 Reach me via: **[LinkedIn](https://www.linkedin.com/in/micheal-adrian-gener-2a5383313/)**
--     🔥 Fun fact: *I drink more coffee than my code has comments ☕*
+- 🌱 I’m currently learning **(PostgreSQL, Express.js, React.js, Node.js)**
+- 📂 All of my projects are available on **[Portfolio Link](https://kel-portfolio.vercel.app/)**
+- 📫 Reach me via: **[LinkedIn](https://www.linkedin.com/in/micheal-adrian-gener-2a5383313/)**
+- 🔥 Fun fact: *I drink more coffee than my code has comments ☕*
 
 ---
 
@@ -63,7 +63,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
 
 <!-- Laravel -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="30" />
 <!-- MySQL -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
 
