@@ -1,30 +1,74 @@
-## <p align="center">**Hi, I'm Micheal Adrian Gener** </p>
+<p align="center">
+  <h1 align="center">Hi, I'm Micheal Adrian Gener</h1>
+</p>
 
-##
-  <p align="center">
-   **Always ready for opportunities that would help me grow in the industry!**
- 
-   ![Profile views](https://komarev.com/ghpvc/?username=kelllgener&color=blue)
- 
-   <p style="font-size: 24px; color: red;">
-     Fullstack Dev | Data Analyst Enthusiast
-   </p>
-  </p>
-  
-##
-🔭 I’m currently working on **PostgreSQL, Express.js, Node.js, React.js**  
-🌱 I’m currently learning **PHP/Laravel**
+<p align="center">Always excited to learn, build, and collaborate!</p>
 
-<!--
-**kelllgener/kelllgener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kelllgener&color=blue" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" style="font-size: 22px; font-weight: bold;">
+  Fullstack Dev | Data Science Enthusiast
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🌱 I’m currently learning **(PostgreSQL, Express.js, React.js, Node.js)**
+- 📂 All of my projects are available on **[Portfolio Link](https://kel-portfolio.vercel.app/)**
+- 📫 Reach me via: **[LinkedIn](https://www.linkedin.com/in/micheal-adrian-gener-2a5383313/)**
+- 🔥 Fun fact: *I drink more coffee than my code has comments ☕*
+
+---
+
+## 🤝 Connect with me
+<p align="left">
+  <a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/micheal-adrian-gener-2a5383313/)">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+# 🛠️ Languages & Tools
+<p align="left">
+
+<!-- Add or remove tools as needed -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kelllgener&theme=onedark&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelllgener&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelllgener&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  ✨ *Thanks for visiting my profile!* ✨
+</p>
