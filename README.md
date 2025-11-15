@@ -110,7 +110,7 @@
 
 # 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kelllgener&theme=onedark&no-frame=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kelllgener&theme=onedark&no-frame=true&margin-w=2" />
 </p>
 
 ---
