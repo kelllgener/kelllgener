@@ -1,8 +1,17 @@
-## <p align="center">Hi, I'm Micheal Adrian Gener </p>
+## <p align="center">**Hi, I'm Micheal Adrian Gener** </p>
 
 ##
-🔭 I’m currently working on PostgreSQL, Express.js, Node.js, React.js  
-🌱 I’m currently learning PHP/Laravel
+  **Always ready for opportunities that would help me grow in the industry!**
+
+  <p align="center">![Profile views](https://komarev.com/ghpvc/?username=kelllgener&color=blue)</p>
+
+  <div style="font-size: 24px; color: red;">
+    Fullstack Dev | Data Analyst Enthusiast
+  </div>
+  
+##
+🔭 I’m currently working on **PostgreSQL, Express.js, Node.js, React.js**  
+🌱 I’m currently learning **PHP/Laravel**
 
 <!--
 **kelllgener/kelllgener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
