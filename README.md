@@ -3,7 +3,7 @@
 ##
   **Always ready for opportunities that would help me grow in the industry!**
 
-  <p align="center">![Profile views](https://komarev.com/ghpvc/?username=kelllgener&color=blue)</p>
+  ![Profile views](https://komarev.com/ghpvc/?username=kelllgener&color=blue)
 
   <div style="font-size: 24px; color: red;">
     Fullstack Dev | Data Analyst Enthusiast
