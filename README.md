@@ -1,14 +1,14 @@
 ## <p align="center">**Hi, I'm Micheal Adrian Gener** </p>
 
-##
-  **Always ready for opportunities that would help me grow in the industry!**
-
-  ![Profile views](https://komarev.com/ghpvc/?username=kelllgener&color=blue)
-
-  <div style="font-size: 24px; color: red;">
-    Fullstack Dev | Data Analyst Enthusiast
-  </div>
-  
+##<p align="center">
+   **Always ready for opportunities that would help me grow in the industry!**
+ 
+   ![Profile views](https://komarev.com/ghpvc/?username=kelllgener&color=blue)
+ 
+   <p style="font-size: 24px; color: red;">
+     Fullstack Dev | Data Analyst Enthusiast
+   </p>
+  </p>
 ##
 🔭 I’m currently working on **PostgreSQL, Express.js, Node.js, React.js**  
 🌱 I’m currently learning **PHP/Laravel**
