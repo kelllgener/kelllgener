@@ -108,21 +108,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kelllgener&theme=onedark&no-frame=true&margin-w=2" />
-</p>
-
----
-
-# 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelllgener&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelllgener&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 <p align="center">
   ✨ *Thanks for visiting my profile!* ✨
 </p>
